@@ -1,0 +1,5 @@
+ca we get commit after doing git reset soft
+git stash
+git stash apply
+network commands
+branching, merge types, reverse, revert
