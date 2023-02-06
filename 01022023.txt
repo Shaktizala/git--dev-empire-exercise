@@ -6,3 +6,4 @@
 	-ex 2 :squash command   
 	-ex 3 :git reset command
 	-ex 4 :git revert command
+	-ex 5 : more info about .gitignore
