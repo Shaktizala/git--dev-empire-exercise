@@ -1,0 +1,9 @@
+- mount command
+- list remotes
+- multiple remotes in one command
+- link of remotes
+- remote origin addition/updation/removal
+- upstream
+- fast-forward with multiple commits on branch
+- cherry pick
+- fork

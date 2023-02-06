@@ -1,2 +1,11 @@
 This is a text file to keep track of Daily Standup exercise.
 Add tasks with the date mentioned.
+
+03/02/2023
+- mount command
+- list added remotes
+- multiple remote in one command
+- link for remote url
+- remote origin addition/updation/removal
+- upstream
+- fast-forward with multiple
