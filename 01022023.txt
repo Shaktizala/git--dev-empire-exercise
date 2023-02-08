@@ -1,3 +1,4 @@
+
 01/02/2023
 
  we discuss about .gitignore for and use of it.
@@ -7,3 +8,4 @@
 	-ex 3 :git reset command
 	-ex 4 :git revert command
 	-ex 5 : more info about .gitignore
+  
