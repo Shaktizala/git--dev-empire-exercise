@@ -1,8 +1,1 @@
-01/02/2023
-
- we discuss about .gitignore for and use of it.
- we also talk about git rebase,git merge and git reset command.
-	-ex 1 :git rebase
-	-ex 2 :squash command   
-	-ex 3 :git reset command
-	-ex 4 :git revert command
+bejwehds
